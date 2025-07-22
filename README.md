@@ -28,7 +28,7 @@ Substock est un logiciel SaaS tout-en-un pour gérer vos **stocks**, **matériel
 
 ---
 
-## 🏗 Sectors d'activité
+## 🏗 Secteurs d'activité
 
 Substock est conçu pour les entreprises de :
 
